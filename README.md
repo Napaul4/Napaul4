@@ -20,5 +20,5 @@
 
 ### Estatística
 
-[![iuricode](https://github-readme-stats.vercel.app/api?username=Napaul4&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Napaul4&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Napaul4](https://github-readme-stats.vercel.app/api?username=Napaul4&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Napaul4](https://github-readme-stats.vercel.app/api/top-langs/?username=Napaul4&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
